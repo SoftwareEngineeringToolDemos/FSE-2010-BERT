@@ -13,3 +13,7 @@ In this repository, for BERT you will find:
 :white_check_mark: [Executable tool](http://www.cc.gatech.edu/~wjin6/mypage/org.arktos.bertplugin_1.0.0.jar)
 
 This repository was constructed by [Rishi Anne](https://github.com/rishielnino) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson).
+
+## Attribution
+
+Authors of tool: Dr. Wei Jin and Dr. Alessandro Orso and Dr. Tao Xie.
