@@ -11,6 +11,7 @@ In this repository, for BERT you will find:
 
 * :x: Source code (not available)
 * :white_check_mark: [Executable tool](http://www.cc.gatech.edu/~wjin6/mypage/org.arktos.bertplugin_1.0.0.jar)
+* :x: Virtual machine containing tool (not available)
 
 This repository was constructed by [Rishi Anne](https://github.com/rishielnino) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson).
 
