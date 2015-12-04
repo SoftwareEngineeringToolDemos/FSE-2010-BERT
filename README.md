@@ -5,7 +5,10 @@ This repository contains information related to the plugin BERT in eclipse  pres
 
 You can find the paper on the following  [link](http://dl.acm.org/citation.cfm?doid=1882291.1882348).
 
-This repository _is not_ the original repository for this tool.
+This repository _is not_ the original repository for this tool.Here are some links to the original project:
+* [The Official Project Page](http://www.cc.gatech.edu/~wjin6/mypage/bertplugin.html)
+* [The Official Project Page For The Plugin File Of BERT] (http://www.cc.gatech.edu/~wjin6/mypage/bertplugin.html)
+
 
 In this repository, for BERT you will find:
 
